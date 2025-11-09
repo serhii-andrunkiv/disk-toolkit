@@ -1,4 +1,4 @@
-# About DiskOperationsProgram
+# About Disk Toolkit
 Disk management software is open source software designed to manipulate various types of storage devices.
 The list of operations provided by this program:
 - Displaying a list of operations on disks
@@ -14,8 +14,8 @@ The list of operations provided by this program:
 - GCC version 13.1.1 or later
 - GNU Make 4.4.1 or later
 # Build and Run on Debian/Arch/RHEL based Linux distrubutions
-- git clone https://github.com/sergij-andrunkiv/DiskOperationsProgram
-- cd DiskOperationsProgram/Sources
+- git clone https://github.com/sergij-andrunkiv/disk-toolkit
+- cd disk-toolkit/Sources
 - make build
 - make run
 # License
